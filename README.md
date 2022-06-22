@@ -5,7 +5,7 @@
 </a>
 
 - 🇮🇹 I'm from Italy
-- 🤔 I’m waiting to discuss my thesis for my BA Degree in Computer Science at [Tor Vergata](http://www.informatica.uniroma2.it/)
+- 🤔 BA Degree in Computer Science at [Tor Vergata](http://www.informatica.uniroma2.it/)
 - 🔭 I’m working with [Sp-ino](https://github.com/Sp-ino/), [toran777](https://github.com/toran777/) and [Last Ancestor](https://github.com/last-ancestor) on our common project [BIG]().
 - 🌱 I’m learning about Smart-Contract, Blockchain, Offensive Security and Machine Learning.
 - 💬 I'm a Developer's Moderator for the official [Terra Discord](https://discord.com/invite/terra-money).
