@@ -14,9 +14,9 @@
 - ⚡ About me:
 
     > 
-    > My favourite manga is [Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))
+    > My favorite manga is [Berserk](https://en.wikipedia.org/wiki/Berserk_(manga))
     >
-    > My favaourite anime is [Bunny Girl Senpai](https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream_of_Bunny_Girl_Senpai)
+    > My favorite anime is [Bunny Girl Senpai](https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream_of_Bunny_Girl_Senpai)
     >
     > I'm still reading [Against The Gods](https://www.wuxiaworld.com/novel/against-the-gods)
 
